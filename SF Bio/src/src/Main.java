@@ -8,7 +8,7 @@ package src;
  *
  * @author Erik Lundgren <erik at lundgren.cc>
  */
-public class Src {
+public class Main {
 
     /**
      * @param args the command line arguments
